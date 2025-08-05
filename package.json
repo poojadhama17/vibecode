@@ -1,0 +1,28 @@
+{
+  "name": "telium-button-examples",
+  "version": "1.0.0",
+  "description": "Telium button click examples and patterns",
+  "main": "telium-app-example.js",
+  "scripts": {
+    "start": "node telium-app-example.js",
+    "examples": "node telium-button-examples.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telium",
+    "terminal",
+    "ui",
+    "button",
+    "click",
+    "events"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "telium": "^1.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
